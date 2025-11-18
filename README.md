@@ -19,7 +19,6 @@
 - In all plants page, user can filter by `category` and `is_edible`.
 - For the images, backgrounds, fonts you can use whatever you like. As for the content like categories,  make sure you add real plants with real plants images.
 - Use at least 2 apps, one main and one for the plants.
-- Add a related `Comment` model on the plants (fields: plant relation, full_name, content, created_at).  So, visitors can add comments on the plants.
 - In Plant detail page , Add related plants (based on the same category, use filter !)
   
 ## wireframe for the main pages
